@@ -65,7 +65,7 @@
 		<dc:contributor id="transcriber-2"> by P. G. Wodehouse This eBook is for the use of anyone anywhere at no cost</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">TRANSCRIBER_SORT</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-3"> with almost no restrictions whatsoever.  You may copy it</dc:contributor>
+		<dc:contributor id="transcriber-3"> with almost no restrictions whatsoever. You may copy it</dc:contributor>
 		<meta property="file-as" refines="#transcriber-3">TRANSCRIBER_SORT</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-4"> give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org Title: The White Feather Author: P. G. Wodehouse Posting Date: October 19</dc:contributor>
